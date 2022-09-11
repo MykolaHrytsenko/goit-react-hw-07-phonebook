@@ -1,8 +1,7 @@
-.btn {
-  margin: 5px 10px;
-  background-color: beige;
-  cursor: pointer;
-}
-.btn:hover {
-  background-color: red;
+
+
+.contacts{
+  display: flex;
+  flex-direction: column;
+ 
 }
